@@ -1,4 +1,4 @@
-# 📚 Laravel Task List APP
+# 📋 Laravel Task List APP
 
 A Laravel application running with Docker (MariaDB + Adminer).
 
